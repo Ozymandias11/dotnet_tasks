@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "Default": "Data Source=DESKTOP-G0PQF5H\\SQLEXPRESS;Initial Catalog=task_7_database;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=Falsee"
+  }
+}  
